@@ -1,7 +1,17 @@
 {
     "images":{
-        "name": "testing",
-        "size": "1004",
+        "name": "dog.jpg",
+        "size": "1024",
+        "type": "jpg"
+    },
+    "images2":{
+        "name": "dog.jpg",
+        "size": "1024",
+        "type": "jpg"
+    },
+    "images3":{
+        "name": "dog.jpg",
+        "size": "1024",
         "type": "jpg"
     }
 }
