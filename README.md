@@ -17,3 +17,7 @@ Name, Size, Type, etc.
 Append the data for this image to the array.
 Note: If the image is a duplicate name, update the object in the array, don’t just add it.
 Upload the images.json file back to the S3 bucket.
+
+### UML
+
+![lab 17 - lambda and s3](./assets/lab17-UML.png)
