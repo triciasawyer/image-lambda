@@ -1,5 +1,8 @@
 'use strict';
 
+
+
+// redo this function to restart... watch code review recording when it gets posted later
 import { S3Client, GetObjectCommand, PutObjectCommand } from '@aws-sdk/client-s3';
 
 
