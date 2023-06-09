@@ -2,7 +2,7 @@
   "name": "image-lambda",
   "version": "1.0.0",
   "description": "Lab 17 - S3 bucket that allows user to upload image and when they do, it will trigger a Lambda function",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
