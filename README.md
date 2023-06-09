@@ -4,6 +4,10 @@
 
 Lab 17 - S3 bucket that allows user to upload image and when they do, it will trigger a Lambda function
 
+### Collaborators
+
+Ryan in lecture video
+
 ### Process
 
 Feature Tasks
